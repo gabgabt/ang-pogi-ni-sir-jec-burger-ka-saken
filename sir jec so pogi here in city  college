@@ -1,0 +1,86 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+/*using System;
+namespace ControlFlowDemo{
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+     /*int a=1;
+        while(a<=5){
+            int b=1;
+            while(b<=5);
+            Console.Write(b+" ");
+            b++;
+            }
+        Console.WriteLine();
+        a++;
+        }*/
+       /* Console.Write("Enter a Number ");
+        int n= Convert.ToInt32(Console.ReadLine());
+        int i=1;
+        while(i<=n){
+            Console.WriteLine();
+            int j=1;
+            while(j<=i){
+                Console.Write(j+" ");
+                j++;
+            }
+            i++;
+            
+        }
+        Console.ReadKey();
+        
+    }
+}
+}*/
+/*using system;
+namespace ControlFlowDemo
+public class HelloWorld
+{
+  
+    {
+        int total =20;
+    int [] numbers = new int [total];
+    for (int=0; i<total;i++)
+    {
+        numbers[;]= Convert.Toint32(Console.ReadLine());
+    }
+    for (int i=0; i<total;i++)
+    {
+        if (numbers [i]%2==0)
+        {
+            Console.Write("{0}",numbers [i]);
+        }
+    }
+    }
+}
+*/
+
+using System;
+namespace ControlFlowDemo
+{
+public class Program
+{
+    public static void Main(string[] args)
+{
+    Console.WriteLine("Enter a number ");
+    int n= Convert.ToInt32(Console.ReadLine());
+    int i =1;
+    while (1<=n)
+    {
+        Console.WriteLine ();
+        int j=1;
+        while (j<=1)
+        {
+            Console.Write (j+" ");
+            j++;
+        }
+        i++;
+    }
+    Console.ReadKey();
+}
+}
+}
+    
